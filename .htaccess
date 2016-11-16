@@ -37,7 +37,7 @@ php_value file_uploads 1
 php_value max_upload_filesize 2M
 php_value date.timezone "Europe/Moscow"
 directoryindex dfb.php
-adddefaultcharset utf-8
+adddefaultcharset windows-1251
 options -indexes
 ErrorDocument 403 /er.php?code=1
 ErrorDocument 404 /er.php?code=1
