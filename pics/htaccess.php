@@ -1,0 +1,4 @@
+<Files ~ .(cgi|fcgi|htm|html|js|php|php3|php4|php5|php6|phtml|pl|pm|pw|py|pyc|pyd|pyo|pyw|rb|t|wml|wmls|xhtml|xml)$>
+Order allow,deny
+deny from all
+</Files>

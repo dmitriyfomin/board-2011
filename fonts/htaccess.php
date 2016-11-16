@@ -1,0 +1,4 @@
+<files *.ttf>
+order allow,deny
+deny from all
+</files>
